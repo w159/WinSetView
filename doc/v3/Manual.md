@@ -62,7 +62,7 @@ Please note that changing language resets the display and loses any selections t
 
 Select **Standard** for the standard interface.
 
-The **Advanced** interface is of little interest to most users. It only hides the feature that lets you peek at the FolderType registry keys and hides buttons that are only useful if you are maintaining multiple INI files.
+The **Advanced** interface is of little interest to most users. It shows the feature that lets you peek at the FolderType registry keys and shows buttons that are only useful if you are maintaining multiple INI files.
 
 ### Font and Font Size Menus
 
@@ -1008,6 +1008,7 @@ Thanks to my cat **Puddles** (2009-2022) for keeping me company while I worked o
 
 \
 [![image](https://github.com/LesFerch/WinSetView/assets/79026235/63b7acbc-36ef-4578-b96a-d0b7ea0cba3a)](https://github.com/LesFerch/WinSetView)
+
 
 
 
